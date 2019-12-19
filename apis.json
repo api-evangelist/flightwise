@@ -1,0 +1,51 @@
+{
+    "name": "Flightwise",
+    "description": "Flight Tracking, Flight Tracker, Flight Planning, Flight Plan Filing, Pilot's Logbook, Aviation Weather Services.  Useful site for Pilots, FBOs and Aviation-related companies.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/787-flightwise.jpg",
+    "tags": [
+        "api provider",
+        "aviation",
+        "flight tracking service",
+        "flights",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/flightwise\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Flightwise",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/787-flightwise.jpg",
+            "humanURL": "http:\/\/flightwise.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/flightwise-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/flightwise.com"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/flightwise.com\/documentation\/39\/PlaneXML_API_Reference.html"
+        },
+        {
+            "type": "Email",
+            "url": "service@flightwise.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/flightwise"
+        }
+    ]
+}
